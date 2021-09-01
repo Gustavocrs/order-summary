@@ -34,9 +34,8 @@ h1{
 }
 
 .box{
-    margin-top: 50px;
     width: 350px;
-    height: 520px;
+    height: 540px;
     background: #FFF;
     border-radius: 15px;
     text-align: center;
